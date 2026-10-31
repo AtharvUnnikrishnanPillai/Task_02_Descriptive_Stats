@@ -1,0 +1,660 @@
+{
+  "rows": 246745,
+  "column_count": 41,
+  "types": {
+    "page_id": "categorical",
+    "ad_id": "categorical",
+    "ad_creation_time": "date",
+    "bylines": "categorical",
+    "currency": "categorical",
+    "delivery_by_region": "categorical",
+    "demographic_distribution": "categorical",
+    "estimated_audience_size": "numeric",
+    "estimated_impressions": "numeric",
+    "estimated_spend": "numeric",
+    "publisher_platforms": "categorical",
+    "illuminating_scored_message": "categorical",
+    "illuminating_mentions": "categorical",
+    "scam_illuminating": "numeric",
+    "election_integrity_Truth_illuminating": "numeric",
+    "advocacy_msg_type_illuminating": "numeric",
+    "issue_msg_type_illuminating": "numeric",
+    "attack_msg_type_illuminating": "numeric",
+    "image_msg_type_illuminating": "numeric",
+    "cta_msg_type_illuminating": "numeric",
+    "engagement_cta_subtype_illuminating": "numeric",
+    "fundraising_cta_subtype_illuminating": "numeric",
+    "voting_cta_subtype_illuminating": "numeric",
+    "covid_topic_illuminating": "numeric",
+    "economy_topic_illuminating": "numeric",
+    "education_topic_illuminating": "numeric",
+    "environment_topic_illuminating": "numeric",
+    "foreign_policy_topic_illuminating": "numeric",
+    "governance_topic_illuminating": "numeric",
+    "health_topic_illuminating": "numeric",
+    "immigration_topic_illuminating": "numeric",
+    "lgbtq_issues_topic_illuminating": "numeric",
+    "military_topic_illuminating": "numeric",
+    "race_and_ethnicity_topic_illuminating": "numeric",
+    "safety_topic_illuminating": "numeric",
+    "social_and_cultural_topic_illuminating": "numeric",
+    "technology_and_privacy_topic_illuminating": "numeric",
+    "womens_issue_topic_illuminating": "numeric",
+    "incivility_illuminating": "numeric",
+    "freefair_illuminating": "numeric",
+    "fraud_illuminating": "numeric"
+  },
+  "columns": {
+    "page_id": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "unique": 4475,
+      "mode": "4d66f5853f0365dba032a87704a634f023d15babde973bb7a284ed8cd2707b2d",
+      "mode_frequency": 55503,
+      "top5": [
+        [
+          "4d66f5853f0365dba032a87704a634f023d15babde973bb7a284ed8cd2707b2d",
+          55503
+        ],
+        [
+          "e3342051b60393770363ffc02946a0f76bc3e4155190d1f05fb0277b34bf6480",
+          23988
+        ],
+        [
+          "4ade404186269ec62d2dd7d9e0ed5f93a5f32c057516879d627ea9fbd628ef9b",
+          14822
+        ],
+        [
+          "330b2f35ded2161e63fbb2b5c5bdae05bff274ff31f990c275d28ce408671ce0",
+          10461
+        ],
+        [
+          "ec8ac6dc1cddc49972de2c31b62343fe3979729ec437c3b8d6ffa8915ab1401d",
+          9851
+        ]
+      ]
+    },
+    "ad_id": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "unique": 246745,
+      "mode": "0000a88a64484883df6ca1fabd357e4c5950e443123ce3f45d1c5b4c621f9783",
+      "mode_frequency": 1,
+      "top5": [
+        [
+          "0000a88a64484883df6ca1fabd357e4c5950e443123ce3f45d1c5b4c621f9783",
+          1
+        ],
+        [
+          "00011515821c6d40a483902b729180d9f3eabef8fbeb50c20f25966c393492a2",
+          1
+        ],
+        [
+          "000242f9573c9b543f8ece3587a69483f7ce7d172a61ef5fc08e4ed621b01f88",
+          1
+        ],
+        [
+          "00029aa39e40494e8dc1935b5651701f22a9c4e9a5ec4ee2337192aba2b81742",
+          1
+        ],
+        [
+          "0002ace6b0348209a204a309f67c6f61c748d74b409ac4c061f85a7c3345ff78",
+          1
+        ]
+      ]
+    },
+    "ad_creation_time": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "unique": 547,
+      "mode": "2024-10-27",
+      "mode_frequency": 8619,
+      "top5": [
+        [
+          "2024-10-27",
+          8619
+        ],
+        [
+          "2024-10-28",
+          7356
+        ],
+        [
+          "2024-10-26",
+          6414
+        ],
+        [
+          "2024-10-23",
+          5021
+        ],
+        [
+          "2024-10-25",
+          4769
+        ]
+      ]
+    },
+    "bylines": {
+      "count": 245736,
+      "missing": 1009,
+      "missing_pct": 0.40892419299276583,
+      "unique": 3786,
+      "mode": "HARRIS FOR PRESIDENT",
+      "mode_frequency": 49788,
+      "top5": [
+        [
+          "HARRIS FOR PRESIDENT",
+          49788
+        ],
+        [
+          "HARRIS VICTORY FUND",
+          32612
+        ],
+        [
+          "BIDEN VICTORY FUND",
+          15539
+        ],
+        [
+          "DONALD J. TRUMP FOR PRESIDENT 2024, INC.",
+          15112
+        ],
+        [
+          "Trump National Committee JFC",
+          7279
+        ]
+      ]
+    },
+    "currency": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "unique": 18,
+      "mode": "USD",
+      "mode_frequency": 246599,
+      "top5": [
+        [
+          "USD",
+          246599
+        ],
+        [
+          "INR",
+          63
+        ],
+        [
+          "GBP",
+          17
+        ],
+        [
+          "EUR",
+          11
+        ],
+        [
+          "EGP",
+          8
+        ]
+      ]
+    },
+    "delivery_by_region": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "unique": 141122,
+      "mode": "{}",
+      "mode_frequency": 30989,
+      "top5": [
+        [
+          "{}",
+          30989
+        ],
+        [
+          "{'Georgia': {'spend': 49, 'impressions': 499}}",
+          2307
+        ],
+        [
+          "{'Arizona': {'spend': 49, 'impressions': 499}}",
+          2020
+        ],
+        [
+          "{'Pennsylvania': {'spend': 49, 'impressions': 499}}",
+          1912
+        ],
+        [
+          "{'Nevada': {'spend': 49, 'impressions': 499}}",
+          1870
+        ]
+      ]
+    },
+    "demographic_distribution": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "unique": 215622,
+      "mode": "{}",
+      "mode_frequency": 30989,
+      "top5": [
+        [
+          "{}",
+          30989
+        ],
+        [
+          "{'female_65+': {'spend': 49, 'impressions': 499}}",
+          44
+        ],
+        [
+          "{'male_65+': {'spend': 49, 'impressions': 499}}",
+          24
+        ],
+        [
+          "{'female_65+': {'spend': 49, 'impressions': 1499}}",
+          13
+        ],
+        [
+          "{'female_65+': {'spend': 49, 'impressions': 2499}}",
+          12
+        ]
+      ]
+    },
+    "estimated_audience_size": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 556462.8559687126,
+      "min": 0.0,
+      "max": 1000001.0,
+      "std": 409864.75882290734,
+      "median": 300000.0
+    },
+    "estimated_impressions": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 45601.52595189366,
+      "min": 499.0,
+      "max": 1000000.0,
+      "std": 136790.76990104263,
+      "median": 3499.0
+    },
+    "estimated_spend": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 1061.2914344768892,
+      "min": 49.0,
+      "max": 474999.0,
+      "std": 4992.560748793634,
+      "median": 49.0
+    },
+    "publisher_platforms": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "unique": 9,
+      "mode": "['facebook', 'instagram']",
+      "mode_frequency": 214434,
+      "top5": [
+        [
+          "['facebook', 'instagram']",
+          214434
+        ],
+        [
+          "['facebook']",
+          23259
+        ],
+        [
+          "['instagram']",
+          8395
+        ],
+        [
+          "['facebook', 'instagram', 'audience_network', 'messenger']",
+          459
+        ],
+        [
+          "['facebook', 'instagram', 'audience_network']",
+          79
+        ]
+      ]
+    },
+    "illuminating_scored_message": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "unique": 26338,
+      "mode": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "mode_frequency": 5972,
+      "top5": [
+        [
+          "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          5972
+        ],
+        [
+          "82459467ad44f717f2089911f5210cce1ff025dc0cee03bdb2e60da827edb282",
+          1887
+        ],
+        [
+          "3b1d236346df93fd259a23d523f6deeed9b9939158b6f34b11854ea0f97ef35d",
+          1352
+        ],
+        [
+          "7e119dac6ca701d8070d0ca8c5b480f016523cb1b78748ee27d69e71c5017f8d",
+          1341
+        ],
+        [
+          "8e1144f0b13549c2652e19f6dd1ae523956a19671c5e4383a31f09d9325f1239",
+          1172
+        ]
+      ]
+    },
+    "illuminating_mentions": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "unique": 278,
+      "mode": "[]",
+      "mode_frequency": 73205,
+      "top5": [
+        [
+          "[]",
+          73205
+        ],
+        [
+          "['Donald Trump']",
+          53182
+        ],
+        [
+          "['Kamala Harris']",
+          31019
+        ],
+        [
+          "['President Trump']",
+          14580
+        ],
+        [
+          "['Joe Biden']",
+          14059
+        ]
+      ]
+    },
+    "scam_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.07163265719670105,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.25787921423700266,
+      "median": 0.0
+    },
+    "election_integrity_Truth_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.05008814768283045,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.21812729763428282,
+      "median": 0.0
+    },
+    "advocacy_msg_type_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.5486311779367363,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.49763039712576856,
+      "median": 1.0
+    },
+    "issue_msg_type_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.38164907090315914,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.485792151038562,
+      "median": 0.0
+    },
+    "attack_msg_type_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.27185555938316885,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.44491675228584093,
+      "median": 0.0
+    },
+    "image_msg_type_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.22270360088350322,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.41606178459577625,
+      "median": 0.0
+    },
+    "cta_msg_type_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.5727694583476869,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.49467726617114893,
+      "median": 1.0
+    },
+    "engagement_cta_subtype_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.12486980485926767,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.33057189773339457,
+      "median": 0.0
+    },
+    "fundraising_cta_subtype_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.22848689943058623,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.41985872700996546,
+      "median": 0.0
+    },
+    "voting_cta_subtype_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.1438448600782184,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.35093306401909335,
+      "median": 0.0
+    },
+    "covid_topic_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.024875884009807697,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.15574714351540456,
+      "median": 0.0
+    },
+    "economy_topic_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.12212202881517356,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.3274273558898461,
+      "median": 0.0
+    },
+    "education_topic_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.01432653143934021,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.11883324100080564,
+      "median": 0.0
+    },
+    "environment_topic_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.02124865752092241,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.14421246950536115,
+      "median": 0.0
+    },
+    "foreign_policy_topic_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.005264544367667025,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.07236608434896528,
+      "median": 0.0
+    },
+    "governance_topic_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.025641856977851627,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.15806471271206604,
+      "median": 0.0
+    },
+    "health_topic_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.10918964923301384,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.3118776425724781,
+      "median": 0.0
+    },
+    "immigration_topic_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.03356906928205232,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.1801175126153678,
+      "median": 0.0
+    },
+    "lgbtq_issues_topic_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.0032300553202699142,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.05674182858640465,
+      "median": 0.0
+    },
+    "military_topic_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.002176335893331172,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.04660051777000881,
+      "median": 0.0
+    },
+    "race_and_ethnicity_topic_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.01243388923787716,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.11081217172130098,
+      "median": 0.0
+    },
+    "safety_topic_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.03372307442906645,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.18051581854071772,
+      "median": 0.0
+    },
+    "social_and_cultural_topic_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.10583801090194331,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.3076308012712654,
+      "median": 0.0
+    },
+    "technology_and_privacy_topic_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.0011550386026059293,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.03396629453070909,
+      "median": 0.0
+    },
+    "womens_issue_topic_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.08090944092078867,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.27269654319083053,
+      "median": 0.0
+    },
+    "incivility_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.18752558309185596,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.39033364735690335,
+      "median": 0.0
+    },
+    "freefair_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.006415530203246266,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.07983982095047255,
+      "median": 0.0
+    },
+    "fraud_illuminating": {
+      "count": 246745,
+      "missing": 0,
+      "missing_pct": 0.0,
+      "mean": 0.0026383513343735433,
+      "min": 0.0,
+      "max": 1.0,
+      "std": 0.051297184143630825,
+      "median": 0.0
+    }
+  },
+  "sha256": "6f7fd60cd451fe9b92d1c5b82ed28298b679b401f617cd7ef17610bc1938b484"
+}

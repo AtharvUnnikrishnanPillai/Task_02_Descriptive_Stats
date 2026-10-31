@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "group_counts": {
+    "by_page.jsonl.gz": 4475,
+    "by_page_ad.jsonl.gz": 246745
+  },
+  "pairwise_leaf_checks": 166470018,
+  "relative_tolerance": 1e-09,
+  "absolute_tolerance": 1e-09,
+  "input_sha256": "6f7fd60cd451fe9b92d1c5b82ed28298b679b401f617cd7ef17610bc1938b484"
+}

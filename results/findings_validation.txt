@@ -1,0 +1,2 @@
+USD total independently checked with Pandas: PASS
+Largest USD page aggregate independently checked with Pandas: PASS

@@ -1,0 +1,1379 @@
+[
+  {
+    "key": [
+      "0005687f4ac876c135dda2bd5aa60962eced3356228ef01c21c514d263a11128",
+      "10913e6cae50d9aafe81b85c23f4ad11e24bde5d4f24643c14734a19a2733e5e"
+    ],
+    "rows": 1,
+    "stats": {
+      "page_id": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "0005687f4ac876c135dda2bd5aa60962eced3356228ef01c21c514d263a11128",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "0005687f4ac876c135dda2bd5aa60962eced3356228ef01c21c514d263a11128",
+            1
+          ]
+        ]
+      },
+      "ad_id": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "10913e6cae50d9aafe81b85c23f4ad11e24bde5d4f24643c14734a19a2733e5e",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "10913e6cae50d9aafe81b85c23f4ad11e24bde5d4f24643c14734a19a2733e5e",
+            1
+          ]
+        ]
+      },
+      "ad_creation_time": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "2024-08-23",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "2024-08-23",
+            1
+          ]
+        ]
+      },
+      "bylines": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "David Blount for State Senate",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "David Blount for State Senate",
+            1
+          ]
+        ]
+      },
+      "currency": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "USD",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "USD",
+            1
+          ]
+        ]
+      },
+      "delivery_by_region": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "{'Massachusetts': {'spend': 0, 'impressions': 2}, 'Arizona': {'spend': 0, 'impressions': 5}, 'Oklahoma': {'spend': 0, 'impressions': 10}, 'Pennsylvania': {'spend': 0, 'impressions': 8}, 'South Carolina': {'spend': 0, 'impressions': 8}, 'Tennessee': {'spend': 0, 'impressions': 63}, 'Texas': {'spend': 1, 'impressions': 120}, 'Vermont': {'spend': 0, 'impressions': 5}, 'Virginia': {'spend': 0, 'impressions': 7}, 'Wisconsin': {'spend': 0, 'impressions': 5}, 'Arkansas': {'spend': 0, 'impressions': 7}, 'North Carolina': {'spend': 0, 'impressions': 14}, 'Colorado': {'spend': 0, 'impressions': 8}, 'Hawaii': {'spend': 0, 'impressions': 1}, 'Indiana': {'spend': 0, 'impressions': 2}, 'Iowa': {'spend': 0, 'impressions': 2}, 'Missouri': {'spend': 0, 'impressions': 7}, 'Nevada': {'spend': 0, 'impressions': 1}, 'Washington': {'spend': 0, 'impressions': 10}, 'Maine': {'spend': 0, 'impressions': 1}, 'Nebraska': {'spend': 0, 'impressions': 1}, 'Ohio': {'spend': 0, 'impressions': 4}, 'New York': {'spend': 0, 'impressions': 16}, 'New Mexico': {'spend': 0, 'impressions': 2}, 'Washington, District of Columbia': {'spend': 0, 'impressions': 4}, 'Oregon': {'spend': 0, 'impressions': 1}, 'New Hampshire': {'spend': 0, 'impressions': 1}, 'West Virginia': {'spend': 0, 'impressions': 1}, 'Alabama': {'spend': 0, 'impressions': 44}, 'Alaska': {'spend': 0, 'impressions': 1}, 'California': {'spend': 0, 'impressions': 14}, 'Delaware': {'spend': 0, 'impressions': 1}, 'Florida': {'spend': 0, 'impressions': 22}, 'New Jersey': {'spend': 0, 'impressions': 1}, 'Georgia': {'spend': 0, 'impressions': 65}, 'Illinois': {'spend': 0, 'impressions': 20}, 'Kansas': {'spend': 0, 'impressions': 2}, 'Kentucky': {'spend': 0, 'impressions': 7}, 'Louisiana': {'spend': 0, 'impressions': 47}, 'Maryland': {'spend': 0, 'impressions': 5}, 'Michigan': {'spend': 0, 'impressions': 7}, 'Minnesota': {'spend': 0, 'impressions': 4}, 'Mississippi': {'spend': 43, 'impressions': 4915}, 'Utah': {'spend': 0, 'impressions': 1}}",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "{'Massachusetts': {'spend': 0, 'impressions': 2}, 'Arizona': {'spend': 0, 'impressions': 5}, 'Oklahoma': {'spend': 0, 'impressions': 10}, 'Pennsylvania': {'spend': 0, 'impressions': 8}, 'South Carolina': {'spend': 0, 'impressions': 8}, 'Tennessee': {'spend': 0, 'impressions': 63}, 'Texas': {'spend': 1, 'impressions': 120}, 'Vermont': {'spend': 0, 'impressions': 5}, 'Virginia': {'spend': 0, 'impressions': 7}, 'Wisconsin': {'spend': 0, 'impressions': 5}, 'Arkansas': {'spend': 0, 'impressions': 7}, 'North Carolina': {'spend': 0, 'impressions': 14}, 'Colorado': {'spend': 0, 'impressions': 8}, 'Hawaii': {'spend': 0, 'impressions': 1}, 'Indiana': {'spend': 0, 'impressions': 2}, 'Iowa': {'spend': 0, 'impressions': 2}, 'Missouri': {'spend': 0, 'impressions': 7}, 'Nevada': {'spend': 0, 'impressions': 1}, 'Washington': {'spend': 0, 'impressions': 10}, 'Maine': {'spend': 0, 'impressions': 1}, 'Nebraska': {'spend': 0, 'impressions': 1}, 'Ohio': {'spend': 0, 'impressions': 4}, 'New York': {'spend': 0, 'impressions': 16}, 'New Mexico': {'spend': 0, 'impressions': 2}, 'Washington, District of Columbia': {'spend': 0, 'impressions': 4}, 'Oregon': {'spend': 0, 'impressions': 1}, 'New Hampshire': {'spend': 0, 'impressions': 1}, 'West Virginia': {'spend': 0, 'impressions': 1}, 'Alabama': {'spend': 0, 'impressions': 44}, 'Alaska': {'spend': 0, 'impressions': 1}, 'California': {'spend': 0, 'impressions': 14}, 'Delaware': {'spend': 0, 'impressions': 1}, 'Florida': {'spend': 0, 'impressions': 22}, 'New Jersey': {'spend': 0, 'impressions': 1}, 'Georgia': {'spend': 0, 'impressions': 65}, 'Illinois': {'spend': 0, 'impressions': 20}, 'Kansas': {'spend': 0, 'impressions': 2}, 'Kentucky': {'spend': 0, 'impressions': 7}, 'Louisiana': {'spend': 0, 'impressions': 47}, 'Maryland': {'spend': 0, 'impressions': 5}, 'Michigan': {'spend': 0, 'impressions': 7}, 'Minnesota': {'spend': 0, 'impressions': 4}, 'Mississippi': {'spend': 43, 'impressions': 4915}, 'Utah': {'spend': 0, 'impressions': 1}}",
+            1
+          ]
+        ]
+      },
+      "demographic_distribution": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "{'unknown_65+': {'spend': 0, 'impressions': 7}, 'male_35-44': {'spend': 4, 'impressions': 462}, 'unknown_18-24': {'spend': 0, 'impressions': 2}, 'unknown_55-64': {'spend': 0, 'impressions': 13}, 'male_18-24': {'spend': 0, 'impressions': 72}, 'female_18-24': {'spend': 0, 'impressions': 108}, 'unknown_45-54': {'spend': 0, 'impressions': 16}, 'female_45-54': {'spend': 7, 'impressions': 809}, 'female_35-44': {'spend': 7, 'impressions': 854}, 'male_55-64': {'spend': 3, 'impressions': 355}, 'male_45-54': {'spend': 4, 'impressions': 452}, 'male_65+': {'spend': 2, 'impressions': 317}, 'female_65+': {'spend': 4, 'impressions': 496}, 'female_55-64': {'spend': 5, 'impressions': 628}, 'female_25-34': {'spend': 4, 'impressions': 551}, 'male_25-34': {'spend': 3, 'impressions': 338}, 'unknown_35-44': {'spend': 0, 'impressions': 10}}",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "{'unknown_65+': {'spend': 0, 'impressions': 7}, 'male_35-44': {'spend': 4, 'impressions': 462}, 'unknown_18-24': {'spend': 0, 'impressions': 2}, 'unknown_55-64': {'spend': 0, 'impressions': 13}, 'male_18-24': {'spend': 0, 'impressions': 72}, 'female_18-24': {'spend': 0, 'impressions': 108}, 'unknown_45-54': {'spend': 0, 'impressions': 16}, 'female_45-54': {'spend': 7, 'impressions': 809}, 'female_35-44': {'spend': 7, 'impressions': 854}, 'male_55-64': {'spend': 3, 'impressions': 355}, 'male_45-54': {'spend': 4, 'impressions': 452}, 'male_65+': {'spend': 2, 'impressions': 317}, 'female_65+': {'spend': 4, 'impressions': 496}, 'female_55-64': {'spend': 5, 'impressions': 628}, 'female_25-34': {'spend': 4, 'impressions': 551}, 'male_25-34': {'spend': 3, 'impressions': 338}, 'unknown_35-44': {'spend': 0, 'impressions': 10}}",
+            1
+          ]
+        ]
+      },
+      "estimated_audience_size": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 7500.0,
+        "min": 7500.0,
+        "max": 7500.0,
+        "std": null,
+        "median": 7500.0
+      },
+      "estimated_impressions": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 5499.0,
+        "min": 5499.0,
+        "max": 5499.0,
+        "std": null,
+        "median": 5499.0
+      },
+      "estimated_spend": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 49.0,
+        "min": 49.0,
+        "max": 49.0,
+        "std": null,
+        "median": 49.0
+      },
+      "publisher_platforms": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "['facebook', 'instagram']",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "['facebook', 'instagram']",
+            1
+          ]
+        ]
+      },
+      "illuminating_scored_message": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "e687fcbb87055998bcc18f749ffefc9b46d11defd8ef35d2b0e9ff3b603e22ec",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "e687fcbb87055998bcc18f749ffefc9b46d11defd8ef35d2b0e9ff3b603e22ec",
+            1
+          ]
+        ]
+      },
+      "illuminating_mentions": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "['Kamala Harris', 'Tim Walz']",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "['Kamala Harris', 'Tim Walz']",
+            1
+          ]
+        ]
+      },
+      "scam_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "election_integrity_Truth_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "advocacy_msg_type_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 1.0,
+        "min": 1.0,
+        "max": 1.0,
+        "std": null,
+        "median": 1.0
+      },
+      "issue_msg_type_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "attack_msg_type_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 1.0,
+        "min": 1.0,
+        "max": 1.0,
+        "std": null,
+        "median": 1.0
+      },
+      "image_msg_type_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 1.0,
+        "min": 1.0,
+        "max": 1.0,
+        "std": null,
+        "median": 1.0
+      },
+      "cta_msg_type_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 1.0,
+        "min": 1.0,
+        "max": 1.0,
+        "std": null,
+        "median": 1.0
+      },
+      "engagement_cta_subtype_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "fundraising_cta_subtype_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "voting_cta_subtype_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "covid_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "economy_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "education_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "environment_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "foreign_policy_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "governance_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "health_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "immigration_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "lgbtq_issues_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "military_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "race_and_ethnicity_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "safety_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "social_and_cultural_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "technology_and_privacy_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "womens_issue_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "incivility_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "freefair_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "fraud_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      }
+    }
+  },
+  {
+    "key": [
+      "0005687f4ac876c135dda2bd5aa60962eced3356228ef01c21c514d263a11128",
+      "5ae5f50e059148a06b00ef785636346997d35ee843d2900fe795e60bc39a535f"
+    ],
+    "rows": 1,
+    "stats": {
+      "page_id": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "0005687f4ac876c135dda2bd5aa60962eced3356228ef01c21c514d263a11128",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "0005687f4ac876c135dda2bd5aa60962eced3356228ef01c21c514d263a11128",
+            1
+          ]
+        ]
+      },
+      "ad_id": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "5ae5f50e059148a06b00ef785636346997d35ee843d2900fe795e60bc39a535f",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "5ae5f50e059148a06b00ef785636346997d35ee843d2900fe795e60bc39a535f",
+            1
+          ]
+        ]
+      },
+      "ad_creation_time": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "2024-10-28",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "2024-10-28",
+            1
+          ]
+        ]
+      },
+      "bylines": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "David Blount for State Senate",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "David Blount for State Senate",
+            1
+          ]
+        ]
+      },
+      "currency": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "USD",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "USD",
+            1
+          ]
+        ]
+      },
+      "delivery_by_region": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "{'Alabama': {'spend': 0, 'impressions': 26}, 'Pennsylvania': {'spend': 0, 'impressions': 3}, 'New Hampshire': {'spend': 0, 'impressions': 1}, 'New Jersey': {'spend': 0, 'impressions': 2}, 'New York': {'spend': 0, 'impressions': 21}, 'North Carolina': {'spend': 0, 'impressions': 23}, 'Ohio': {'spend': 0, 'impressions': 1}, 'Oklahoma': {'spend': 0, 'impressions': 2}, 'Oregon': {'spend': 0, 'impressions': 1}, 'South Carolina': {'spend': 0, 'impressions': 2}, 'Nebraska': {'spend': 0, 'impressions': 1}, 'Tennessee': {'spend': 0, 'impressions': 39}, 'Texas': {'spend': 1, 'impressions': 79}, 'Utah': {'spend': 0, 'impressions': 3}, 'Vermont': {'spend': 0, 'impressions': 1}, 'Virginia': {'spend': 0, 'impressions': 6}, 'Washington': {'spend': 0, 'impressions': 3}, 'West Virginia': {'spend': 0, 'impressions': 1}, 'Wisconsin': {'spend': 0, 'impressions': 1}, 'Nevada': {'spend': 0, 'impressions': 2}, 'Montana': {'spend': 0, 'impressions': 1}, 'Alaska': {'spend': 0, 'impressions': 1}, 'Indiana': {'spend': 0, 'impressions': 5}, 'Arizona': {'spend': 0, 'impressions': 2}, 'Arkansas': {'spend': 0, 'impressions': 5}, 'California': {'spend': 0, 'impressions': 21}, 'Colorado': {'spend': 0, 'impressions': 10}, 'Connecticut': {'spend': 0, 'impressions': 1}, 'Florida': {'spend': 0, 'impressions': 19}, 'Georgia': {'spend': 0, 'impressions': 30}, 'Illinois': {'spend': 0, 'impressions': 13}, 'Kansas': {'spend': 0, 'impressions': 3}, 'Missouri': {'spend': 0, 'impressions': 7}, 'Kentucky': {'spend': 0, 'impressions': 5}, 'Louisiana': {'spend': 0, 'impressions': 25}, 'Maine': {'spend': 0, 'impressions': 1}, 'Maryland': {'spend': 0, 'impressions': 6}, 'Massachusetts': {'spend': 0, 'impressions': 3}, 'Michigan': {'spend': 0, 'impressions': 5}, 'Minnesota': {'spend': 0, 'impressions': 1}, 'Mississippi': {'spend': 41, 'impressions': 2096}, 'Wyoming': {'spend': 0, 'impressions': 1}}",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "{'Alabama': {'spend': 0, 'impressions': 26}, 'Pennsylvania': {'spend': 0, 'impressions': 3}, 'New Hampshire': {'spend': 0, 'impressions': 1}, 'New Jersey': {'spend': 0, 'impressions': 2}, 'New York': {'spend': 0, 'impressions': 21}, 'North Carolina': {'spend': 0, 'impressions': 23}, 'Ohio': {'spend': 0, 'impressions': 1}, 'Oklahoma': {'spend': 0, 'impressions': 2}, 'Oregon': {'spend': 0, 'impressions': 1}, 'South Carolina': {'spend': 0, 'impressions': 2}, 'Nebraska': {'spend': 0, 'impressions': 1}, 'Tennessee': {'spend': 0, 'impressions': 39}, 'Texas': {'spend': 1, 'impressions': 79}, 'Utah': {'spend': 0, 'impressions': 3}, 'Vermont': {'spend': 0, 'impressions': 1}, 'Virginia': {'spend': 0, 'impressions': 6}, 'Washington': {'spend': 0, 'impressions': 3}, 'West Virginia': {'spend': 0, 'impressions': 1}, 'Wisconsin': {'spend': 0, 'impressions': 1}, 'Nevada': {'spend': 0, 'impressions': 2}, 'Montana': {'spend': 0, 'impressions': 1}, 'Alaska': {'spend': 0, 'impressions': 1}, 'Indiana': {'spend': 0, 'impressions': 5}, 'Arizona': {'spend': 0, 'impressions': 2}, 'Arkansas': {'spend': 0, 'impressions': 5}, 'California': {'spend': 0, 'impressions': 21}, 'Colorado': {'spend': 0, 'impressions': 10}, 'Connecticut': {'spend': 0, 'impressions': 1}, 'Florida': {'spend': 0, 'impressions': 19}, 'Georgia': {'spend': 0, 'impressions': 30}, 'Illinois': {'spend': 0, 'impressions': 13}, 'Kansas': {'spend': 0, 'impressions': 3}, 'Missouri': {'spend': 0, 'impressions': 7}, 'Kentucky': {'spend': 0, 'impressions': 5}, 'Louisiana': {'spend': 0, 'impressions': 25}, 'Maine': {'spend': 0, 'impressions': 1}, 'Maryland': {'spend': 0, 'impressions': 6}, 'Massachusetts': {'spend': 0, 'impressions': 3}, 'Michigan': {'spend': 0, 'impressions': 5}, 'Minnesota': {'spend': 0, 'impressions': 1}, 'Mississippi': {'spend': 41, 'impressions': 2096}, 'Wyoming': {'spend': 0, 'impressions': 1}}",
+            1
+          ]
+        ]
+      },
+      "demographic_distribution": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "{'female_18-24': {'spend': 0, 'impressions': 36}, 'male_45-54': {'spend': 4, 'impressions': 232}, 'male_65+': {'spend': 3, 'impressions': 170}, 'female_65+': {'spend': 5, 'impressions': 301}, 'unknown_55-64': {'spend': 0, 'impressions': 5}, 'male_55-64': {'spend': 3, 'impressions': 169}, 'female_55-64': {'spend': 5, 'impressions': 263}, 'unknown_45-54': {'spend': 0, 'impressions': 6}, 'female_45-54': {'spend': 6, 'impressions': 340}, 'male_18-24': {'spend': 0, 'impressions': 20}, 'unknown_35-44': {'spend': 0, 'impressions': 3}, 'male_35-44': {'spend': 3, 'impressions': 194}, 'female_35-44': {'spend': 7, 'impressions': 358}, 'unknown_25-34': {'spend': 0, 'impressions': 1}, 'male_25-34': {'spend': 2, 'impressions': 143}, 'female_25-34': {'spend': 4, 'impressions': 243}, 'unknown_65+': {'spend': 0, 'impressions': 6}}",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "{'female_18-24': {'spend': 0, 'impressions': 36}, 'male_45-54': {'spend': 4, 'impressions': 232}, 'male_65+': {'spend': 3, 'impressions': 170}, 'female_65+': {'spend': 5, 'impressions': 301}, 'unknown_55-64': {'spend': 0, 'impressions': 5}, 'male_55-64': {'spend': 3, 'impressions': 169}, 'female_55-64': {'spend': 5, 'impressions': 263}, 'unknown_45-54': {'spend': 0, 'impressions': 6}, 'female_45-54': {'spend': 6, 'impressions': 340}, 'male_18-24': {'spend': 0, 'impressions': 20}, 'unknown_35-44': {'spend': 0, 'impressions': 3}, 'male_35-44': {'spend': 3, 'impressions': 194}, 'female_35-44': {'spend': 7, 'impressions': 358}, 'unknown_25-34': {'spend': 0, 'impressions': 1}, 'male_25-34': {'spend': 2, 'impressions': 143}, 'female_25-34': {'spend': 4, 'impressions': 243}, 'unknown_65+': {'spend': 0, 'impressions': 6}}",
+            1
+          ]
+        ]
+      },
+      "estimated_audience_size": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 3000.0,
+        "min": 3000.0,
+        "max": 3000.0,
+        "std": null,
+        "median": 3000.0
+      },
+      "estimated_impressions": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 2499.0,
+        "min": 2499.0,
+        "max": 2499.0,
+        "std": null,
+        "median": 2499.0
+      },
+      "estimated_spend": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 49.0,
+        "min": 49.0,
+        "max": 49.0,
+        "std": null,
+        "median": 49.0
+      },
+      "publisher_platforms": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "['facebook', 'instagram']",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "['facebook', 'instagram']",
+            1
+          ]
+        ]
+      },
+      "illuminating_scored_message": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "f81ed9f610a05a97f7887203d71991e1f1b154e8019ea608ade1843e78886942",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "f81ed9f610a05a97f7887203d71991e1f1b154e8019ea608ade1843e78886942",
+            1
+          ]
+        ]
+      },
+      "illuminating_mentions": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "['Kamala Harris', 'Tim Walz']",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "['Kamala Harris', 'Tim Walz']",
+            1
+          ]
+        ]
+      },
+      "scam_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "election_integrity_Truth_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "advocacy_msg_type_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "issue_msg_type_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "attack_msg_type_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "image_msg_type_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 1.0,
+        "min": 1.0,
+        "max": 1.0,
+        "std": null,
+        "median": 1.0
+      },
+      "cta_msg_type_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 1.0,
+        "min": 1.0,
+        "max": 1.0,
+        "std": null,
+        "median": 1.0
+      },
+      "engagement_cta_subtype_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "fundraising_cta_subtype_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "voting_cta_subtype_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "covid_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "economy_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "education_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "environment_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "foreign_policy_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "governance_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "health_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "immigration_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "lgbtq_issues_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "military_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "race_and_ethnicity_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "safety_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "social_and_cultural_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "technology_and_privacy_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "womens_issue_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "incivility_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "freefair_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "fraud_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      }
+    }
+  },
+  {
+    "key": [
+      "00157b7e28846e0510e1d265c5ea72fea289d9a3e31a91bb3ed242d8b17f4cd8",
+      "715ec14d254bf4e5b576e257e96f77967ef5c27604238eb4eac34d2f8467a10c"
+    ],
+    "rows": 1,
+    "stats": {
+      "page_id": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "00157b7e28846e0510e1d265c5ea72fea289d9a3e31a91bb3ed242d8b17f4cd8",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "00157b7e28846e0510e1d265c5ea72fea289d9a3e31a91bb3ed242d8b17f4cd8",
+            1
+          ]
+        ]
+      },
+      "ad_id": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "715ec14d254bf4e5b576e257e96f77967ef5c27604238eb4eac34d2f8467a10c",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "715ec14d254bf4e5b576e257e96f77967ef5c27604238eb4eac34d2f8467a10c",
+            1
+          ]
+        ]
+      },
+      "ad_creation_time": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "2024-07-29",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "2024-07-29",
+            1
+          ]
+        ]
+      },
+      "bylines": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "Teran for Congress",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "Teran for Congress",
+            1
+          ]
+        ]
+      },
+      "currency": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "USD",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "USD",
+            1
+          ]
+        ]
+      },
+      "delivery_by_region": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "{'Arizona': {'spend': 1248, 'impressions': 27496}}",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "{'Arizona': {'spend': 1248, 'impressions': 27496}}",
+            1
+          ]
+        ]
+      },
+      "demographic_distribution": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "{'unknown_18-24': {'spend': 0, 'impressions': 14}, 'male_18-24': {'spend': 37, 'impressions': 825}, 'unknown_65+': {'spend': 0, 'impressions': 8}, 'female_18-24': {'spend': 60, 'impressions': 1323}, 'unknown_35-44': {'spend': 2, 'impressions': 47}, 'unknown_25-34': {'spend': 2, 'impressions': 61}, 'female_45-54': {'spend': 132, 'impressions': 2925}, 'female_35-44': {'spend': 187, 'impressions': 4128}, 'male_35-44': {'spend': 125, 'impressions': 2756}, 'unknown_45-54': {'spend': 0, 'impressions': 21}, 'female_55-64': {'spend': 83, 'impressions': 1846}, 'male_25-34': {'spend': 149, 'impressions': 3297}, 'male_45-54': {'spend': 79, 'impressions': 1745}, 'female_25-34': {'spend': 248, 'impressions': 5471}, 'male_65+': {'spend': 27, 'impressions': 603}, 'female_65+': {'spend': 54, 'impressions': 1190}, 'male_55-64': {'spend': 55, 'impressions': 1216}, 'unknown_55-64': {'spend': 0, 'impressions': 14}}",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "{'unknown_18-24': {'spend': 0, 'impressions': 14}, 'male_18-24': {'spend': 37, 'impressions': 825}, 'unknown_65+': {'spend': 0, 'impressions': 8}, 'female_18-24': {'spend': 60, 'impressions': 1323}, 'unknown_35-44': {'spend': 2, 'impressions': 47}, 'unknown_25-34': {'spend': 2, 'impressions': 61}, 'female_45-54': {'spend': 132, 'impressions': 2925}, 'female_35-44': {'spend': 187, 'impressions': 4128}, 'male_35-44': {'spend': 125, 'impressions': 2756}, 'unknown_45-54': {'spend': 0, 'impressions': 21}, 'female_55-64': {'spend': 83, 'impressions': 1846}, 'male_25-34': {'spend': 149, 'impressions': 3297}, 'male_45-54': {'spend': 79, 'impressions': 1745}, 'female_25-34': {'spend': 248, 'impressions': 5471}, 'male_65+': {'spend': 27, 'impressions': 603}, 'female_65+': {'spend': 54, 'impressions': 1190}, 'male_55-64': {'spend': 55, 'impressions': 1216}, 'unknown_55-64': {'spend': 0, 'impressions': 14}}",
+            1
+          ]
+        ]
+      },
+      "estimated_audience_size": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 30000.0,
+        "min": 30000.0,
+        "max": 30000.0,
+        "std": null,
+        "median": 30000.0
+      },
+      "estimated_impressions": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 27499.0,
+        "min": 27499.0,
+        "max": 27499.0,
+        "std": null,
+        "median": 27499.0
+      },
+      "estimated_spend": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 1249.0,
+        "min": 1249.0,
+        "max": 1249.0,
+        "std": null,
+        "median": 1249.0
+      },
+      "publisher_platforms": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "['facebook', 'instagram']",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "['facebook', 'instagram']",
+            1
+          ]
+        ]
+      },
+      "illuminating_scored_message": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "cf232dfa44a39fc1360cb02a3699c4be4e4be3ca7a131f96e0bd1c22f29f7333",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "cf232dfa44a39fc1360cb02a3699c4be4e4be3ca7a131f96e0bd1c22f29f7333",
+            1
+          ]
+        ]
+      },
+      "illuminating_mentions": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "unique": 1,
+        "mode": "['Kamala Harris']",
+        "mode_frequency": 1,
+        "top5": [
+          [
+            "['Kamala Harris']",
+            1
+          ]
+        ]
+      },
+      "scam_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "election_integrity_Truth_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "advocacy_msg_type_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 1.0,
+        "min": 1.0,
+        "max": 1.0,
+        "std": null,
+        "median": 1.0
+      },
+      "issue_msg_type_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 1.0,
+        "min": 1.0,
+        "max": 1.0,
+        "std": null,
+        "median": 1.0
+      },
+      "attack_msg_type_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "image_msg_type_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 1.0,
+        "min": 1.0,
+        "max": 1.0,
+        "std": null,
+        "median": 1.0
+      },
+      "cta_msg_type_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 1.0,
+        "min": 1.0,
+        "max": 1.0,
+        "std": null,
+        "median": 1.0
+      },
+      "engagement_cta_subtype_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "fundraising_cta_subtype_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "voting_cta_subtype_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "covid_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "economy_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "education_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "environment_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "foreign_policy_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "governance_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "health_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "immigration_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "lgbtq_issues_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "military_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "race_and_ethnicity_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "safety_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "social_and_cultural_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 1.0,
+        "min": 1.0,
+        "max": 1.0,
+        "std": null,
+        "median": 1.0
+      },
+      "technology_and_privacy_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "womens_issue_topic_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "incivility_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "freefair_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      },
+      "fraud_illuminating": {
+        "count": 1,
+        "missing": 0,
+        "missing_pct": 0.0,
+        "mean": 0.0,
+        "min": 0.0,
+        "max": 0.0,
+        "std": null,
+        "median": 0.0
+      }
+    }
+  }
+]
